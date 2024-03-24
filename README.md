@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michel Motongi</h1>
 <h3 align="center">A passionate front-end developer from Montreal, currently working at COESIO</h3>
 
-- 🌱 I’m currently learning **VueJS**
-
-- 👨‍💻 All of my projects are available at [michelmotongi.com](michelmotongi.com)
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **michel_motongi@hotmail.com**
 
