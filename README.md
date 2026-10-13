@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michel Motongi</h1>
-<h3 align="center">A passionate front-end developer from Montreal, currently working at COESIO</h3>
-
-- 🌱 I’m currently learning **Python**
+<h3 align="center">Cybersecurity analyst · SOC · Fraud investigation · Montréal</h3>
 
 - 📫 How to reach me **michel_motongi@hotmail.com**
-
-- 📄 Know about my experiences [https://resume.creddle.io/resume/chyapbmka3p](https://resume.creddle.io/resume/chyapbmka3p)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
